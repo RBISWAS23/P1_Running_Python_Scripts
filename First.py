@@ -17,3 +17,9 @@ print(type(age))
 # Converting integer into string
 age= str(age)
 print(type(age))
+
+# Boolean//////////////////////////////////////////////////////////
+true_boolean = True
+false_boolean = False
+
+print(type(true_boolean))
